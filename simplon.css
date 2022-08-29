@@ -1,0 +1,125 @@
+
+ 
+ /*agrandir l'image*/
+ .img{
+   width: 100%;    
+   height: 500px;;
+   
+ }
+ .hide{display: none;}
+ .parent{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 50px;
+ }
+ .fils{
+
+  width: 40%;
+  border: 2px solid;
+  background-color: aliceblue;
+
+ 
+ }
+ .jop{
+  background-color: blue;
+  width: 100px;
+ }
+ .fille{
+  
+  width: 40%;
+  border: 2px solid;
+  
+ }
+ #formulaire{
+  height: 100px;
+  width: 100px;
+  margin: 200px;
+  
+
+ }
+ 
+ input{
+  width: 70%;
+  height: 30px;
+ background-color: aliceblue;
+ }
+ #msg{
+  background-color:aliceblue;
+ }
+  /*agrandir le tablequ*/
+
+  
+  .bloc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 905px;
+    height: 150px;
+    background-color: aliceblue;
+   margin: 5px;
+    
+  }
+  .fall{background-color: blue;
+
+  }
+  .bloc .fall2{
+    color: rgb(255, 255, 255);
+  }
+  
+  .id{
+    background: rgb(0,0,0);
+  }
+  
+  .bt {
+   margin: auto;
+    display: block;
+    height: 100px;
+    background-color: blue;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 100px;
+  }
+    
+ 
+  .tron{
+    transform:rotate(90deg);
+    color: blue;
+    font-size: 30px;
+    font-weight:bold;
+  }
+  
+  
+  
+  #ibou{
+  
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+ /*le fon du page*/
+ body{
+  background-color: aqua;
+  margin: 0;
+  padding: 0;
+ }
+ /*centraliser le titre du tableau*/
+ h1{
+  text-align: center;
+ }
+ .blo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 905px;
+  height: 150px;
+  background-color: aliceblue;
+ margin: 5px;
+} 
+ 
+      
