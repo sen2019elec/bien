@@ -50,7 +50,7 @@
  #msg{
   background-color:aliceblue;
  }
-  /*agrandir le tablequ*/
+  /*agrandir le tableau*/
 
   
   .bloc{
@@ -63,6 +63,7 @@
    margin: 5px;
     
   }
+  /*nouveau*/
   .fall{background-color: blue;
 
   }
